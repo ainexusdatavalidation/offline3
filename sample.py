@@ -1,11 +1,5 @@
-sdafsd
-fsdf
-sdf
-sdf
-sdf
-sdf
-sd
-fsd
-from sdf
-sdf
-dsf
+def add():
+    pass
+
+def sub():
+    pass
